@@ -8,12 +8,12 @@ Paste this whole file into ChatGPT. Ask it to draft a short, professional follow
 
 ### Live (production)
 
-- **Command center (home):** https://REPLACE_AFTER_DEPLOY
-- **Quiksilver landing (A–G layouts):** https://REPLACE_AFTER_DEPLOY/feed/landing
-- **Quiksilver tech snapshot:** https://REPLACE_AFTER_DEPLOY/tech
-- **Brand scope:** https://REPLACE_AFTER_DEPLOY/portfolio
-- **Search system / feeds:** https://REPLACE_AFTER_DEPLOY/feed
-- **90-day example:** https://REPLACE_AFTER_DEPLOY/plan
+- **Command center (home):** https://o5-paid-search.vercel.app/
+- **Quiksilver landing (A–G layouts):** https://o5-paid-search.vercel.app/feed/landing
+- **Quiksilver tech snapshot:** https://o5-paid-search.vercel.app/tech
+- **Brand scope:** https://o5-paid-search.vercel.app/portfolio
+- **Search system / feeds:** https://o5-paid-search.vercel.app/feed
+- **90-day example:** https://o5-paid-search.vercel.app/plan
 
 ### Local (dev)
 
